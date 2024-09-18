@@ -8,8 +8,8 @@
 - [ ] Ask me about a little of HTML
 you can reach me at stu192871@lynnschools.org
 
-<!--
-**IsadoraG11/isadoraG11** is a ✨ _special_ ✨ repository because its `README.m>
+<!-- 
+**IsadoraG11/isadoraG11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on GitHub repositories
 - 🌱 I’m currently learning code in Git bash
